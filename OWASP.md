@@ -11,12 +11,13 @@ Tools and Projects:
 2) Tools like OWASP ZAP (Zed Attack Proxy) for penetration testing.
 Development guidelines for secure coding.
 
-3)Educational Resources:
+3) Educational Resources:
 Offers training, workshops, and extensive documentation to improve secure coding and application design.
-4)Community:
+
+4) Community:
 A global network of chapters that foster collaboration and sharing of security knowledge.
 
-###Why OWASP Matters
+### Why OWASP Matters
 OWASP helps organizations:
 
 - Identify vulnerabilities in web applications.
