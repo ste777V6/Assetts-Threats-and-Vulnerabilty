@@ -9,8 +9,7 @@ Detect vulnerabilities in systems, configurations, or code.
 Understand the potential impact of exploitation on the organization.
 3) Improve Security:
 Recommend mitigations and strengthen defenses.
-4)
-Ensure Compliance:
+4) Ensure Compliance:
 Meet regulatory requirements such as PCI DSS, HIPAA, or GDPR.
 
 ## Types of Penetration Testing
@@ -30,25 +29,25 @@ Simulates phishing attacks or other human-focused exploits to assess staff aware
 5) Physical Penetration Testing:
 Tests physical security measures by attempting to gain unauthorized access to facilities.
 
-6)Cloud Penetration Testing:
+6) Cloud Penetration Testing:
 Evaluates cloud environments for misconfigurations or vulnerabilities.
 
 
 ## Stages of Penetration Testing
-Planning and Reconnaissance:
+1) Planning and Reconnaissance:
 Define the scope and objectives of the test.
 Gather intelligence on the target (e.g., network mapping, public data).
 
-Scanning:
+2) Scanning:
 Use automated tools to identify open ports, services, and potential vulnerabilities.
 
-Exploitation:
+3) Exploitation:
 Actively exploit vulnerabilities to gain access or escalate privileges.
 
-Post-Exploitation:
+4) Post-Exploitation:
 Assess the impact of successful exploitation, such as data theft or unauthorized access.
 
-Reporting:
+5) Reporting:
 Document findings, including:
   -Identified vulnerabilities.
   -Exploitation details.
