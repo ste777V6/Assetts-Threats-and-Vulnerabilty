@@ -1,7 +1,11 @@
-## Threat ,odel steps
+# Threath Modeling
+
+## Threat model steps
 
 1) Define the Scope
 2) Identify Threats
 3) Characterize the environment
 4) Analyze Threats
 5) Mitigate Risks
+
+## PASTA threat modeling framework
