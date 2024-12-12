@@ -1,4 +1,6 @@
 # Threath Modeling
+Threat modeling is a structured process for identifying, evaluating, and addressing potential security risks in a system, application, or network. 
+By understanding the possible threats and vulnerabilities, organizations can implement defenses to mitigate risks proactively.
 
 ## Threat model steps
 
@@ -7,6 +9,12 @@
 3) Characterize the environment
 4) Analyze Threats
 5) Mitigate Risks
+
+## Threat Models:
+- STRIDE
+- PASTA
+- Tricke
+- VAST
 
 ## PASTA threat modeling framework : 
 
