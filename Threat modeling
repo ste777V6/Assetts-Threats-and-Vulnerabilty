@@ -8,4 +8,12 @@
 4) Analyze Threats
 5) Mitigate Risks
 
-## PASTA threat modeling framework
+## PASTA threat modeling framework : 
+
+1) Define the business and security objectives
+2) Define the scope : 
+3) Decompose the application :  work with the app developer to see how the data get from user device to company DB
+4) Perform a threat analysis : attacket mindset
+5) Perform a vulnerabilty analysis
+6) Conduct atatck modeling
+7) Analyze risk and impact
